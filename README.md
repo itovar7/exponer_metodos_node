@@ -1,5 +1,5 @@
-Tutorial 1: Node.js + Express 4 + MySQL
-===
+Node.js + Express 4 + MySQL
+
 
 ### Instalar
 sudo npm install
